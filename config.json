@@ -1,0 +1,19 @@
+{
+	"port": "8000",
+	"adminAccount": "admin@sangfor.com",
+	"db": {
+		"servername": "10.127.2.4",
+		"DATABASE": "yapi",
+		"port": 27017
+	},
+	"mail": {
+		"enable": false,
+		"host": "smtp.163.com",
+		"port": 465,
+		"from": "***@163.com",
+		"auth": {
+			"user": "***@163.com",
+			"pass": "*****"
+		}
+	}
+}
